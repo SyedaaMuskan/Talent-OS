@@ -284,26 +284,6 @@ This project demonstrates practical experience with:
 
 ---
 
-# 📸 Screenshots
-
-> Replace these placeholders with actual screenshots.
-
-```
-📷 Dashboard
-
-📷 Resume Upload
-
-📷 Semantic Search
-
-📷 Recruiter Copilot
-
-📷 AI Interviewer
-
-📷 Recruiter Agent
-
-📷 Candidate Comparison
-```
-
 ---
 
 # 🎥 Demo
